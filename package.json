@@ -2,7 +2,9 @@
 	"dependencies": {
 		"markuplint": "^4.9.0"
 	},
-	"scripts": {},
+	"scripts": {
+		"lint": "markuplint index.html"
+	},
 	"type": "module",
 	"version": "0.0.1"
 }
